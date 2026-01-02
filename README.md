@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Shashank Jha 👨‍💻</h1>
+<h1 align="center">Hieee, I’em Shashank Jha 👨‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;Full-Stack+Enthusiast;Cybersecurity+Learner;Open+Source+Contributor" />
@@ -70,24 +70,6 @@
 
 ---
 
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Shashank062A">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🧰 Tools Used
 
 | Purpose       | Tool                |
@@ -100,18 +82,6 @@
 | Fonts         | fancytextgenerator |
 
 
-
-
-
-## 🎨 **Contribution Graph**
-
-<div align="center">
-  <img src="" alt="Contribution Graph" />
-    <img src="" alt="Contribution Graph" />
-    <img src="" />
-</div>
-
-
 ## 🏆 **Achievements & Highlights**
 
 <div align="center">
@@ -122,6 +92,14 @@
 | System Architecture | Database Design | UI/UX Innovation |
 | Problem Solving | API Development | Performance Optimization |
 
+</div>
+
+## 🎨 **Contribution Graph**
+
+<div align="center">
+  <img src="" alt="Contribution Graph" />
+    <img src="" alt="Contribution Graph" />
+    <img src="" />
 </div>
 
 
