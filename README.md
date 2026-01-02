@@ -12,21 +12,6 @@
 
 ---
 
-## 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,python,java,html,css,ts" />
-
----
-
-## 🚀 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,tailwind" />
-
----
-
-## 🛠 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux" />
-
----
-
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
@@ -41,7 +26,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,firebase,vercel,netlify" alt="Databases & Cloud" />
 
 ### **🔧 Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,blender,docker,linux,kalilinux" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,blender,docker,linux" alt="Tools" />
 
 </div>
 
