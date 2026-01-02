@@ -90,7 +90,7 @@
 | Badges        | shields.io          |
 | Fonts         | fancytextgenerator |
 
-# Hi, I'm Aakarsh.
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Developer;" alt="Typing SVG" />
