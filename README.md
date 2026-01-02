@@ -60,15 +60,20 @@
 
 ---
 
-## 🏆 Focus & Strengths
+## 🏆 **Achievements & Highlights**
 
-| 🎯 Focus Areas | 📈 Experience | 🚀 Passion |
-|--------------|--------------|-----------|
-| Full-Stack Development | Modern Web Tech | Open Source |
-| System Design | Database Design | UI / UX |
+<div align="center">
+
+| 🎯 **Focus Areas** | 📈 **Experience** | 🚀 **Passion Projects** |
+|:------------------:|:-----------------:|:------------------------:|
+| Full-Stack Development | Modern Web Technologies | Open Source Contributions |
+| System Architecture | Database Design | UI/UX Innovation |
 | Problem Solving | API Development | Performance Optimization |
 
+</div>
+
 ---
+
 
 ## 🧰 Tools Used
 
@@ -82,17 +87,7 @@
 | Fonts         | fancytextgenerator |
 
 
-## 🏆 **Achievements & Highlights**
-
-<div align="center">
-
-| 🎯 **Focus Areas** | 📈 **Experience** | 🚀 **Passion Projects** |
-|:------------------:|:-----------------:|:------------------------:|
-| Full-Stack Development | Modern Web Technologies | Open Source Contributions |
-| System Architecture | Database Design | UI/UX Innovation |
-| Problem Solving | API Development | Performance Optimization |
-
-</div>
+---
 
 ## 🎨 **Contribution Graph**
 
@@ -102,6 +97,7 @@
     <img src="" />
 </div>
 
+---
 
 ## 📡 **Connect With Me**
 
