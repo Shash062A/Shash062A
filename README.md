@@ -1,4 +1,4 @@
-<h1 align="center">Hieee, I’em Shashank Jha 👨‍💻</h1>
+<h2 align="center">Hieee, I’em Shashank Jha 👨‍💻</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;Full-Stack+Enthusiast;Cybersecurity+Learner;Open+Source+Contributor" />
@@ -12,14 +12,14 @@
 
 ---
 
-🚀 Software Developer | Problem Solver | Tech Explorer  
+### 🚀 Software Developer | Problem Solver | Tech Explorer  
 
 I Build Scalable Web-Applications, EMS Systems, & Practical Software Solutions Focused On Real-World Use Cases.  
 Passionate About Clean code, System Design, & Continuous Learning.
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 - 💻 Software Developer with hands-on experience in full-stack development  
 - 🏗️ Built EMS systems and business-oriented applications  
@@ -30,7 +30,7 @@ Passionate About Clean code, System Design, & Continuous Learning.
 
 ---
 
-- ## 🔐 Cybersecurity Knowledge
+- ### 🔐 Cybersecurity Knowledge
 
 - Phishing attack understanding and awareness techniques  
 - Basic web security concepts (authentication, authorization, input validation)  
@@ -40,27 +40,27 @@ Passionate About Clean code, System Design, & Continuous Learning.
 
 ---
 
-## 🛠️ **Tech Arsenal**
+### 🛠️ **Tech Arsenal**
 
 <div align="center">
 
-### **💻 Languages**
+#### **💻 Languages**
 <img src="https://skillicons.dev/icons?i=cpp,js,python,java,html,css,typescript" alt="Languages" />
 
-### **🚀 Frameworks & Libraries**
+#### **🚀 Frameworks & Libraries**
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,bootstrap" alt="Frameworks" />
 
-### **🗄️ Databases & Cloud**
+#### **🗄️ Databases & Cloud**
 <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,firebase,vercel,netlify" alt="Databases & Cloud" />
 
-### **🔧 Tools & Platforms**
+#### **🔧 Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,blender,docker,linux" alt="Tools" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <!-- Light Mode -->
 <img src="https://github-readme-stats.vercel.app/api?username=Shashank062A&show_icons=true&theme=default"
@@ -76,7 +76,7 @@ Passionate About Clean code, System Design, & Continuous Learning.
 
 ---
 
-## 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <!-- Light Mode -->
 <img src="https://streak-stats.demolab.com?user=Shashank062A&theme=default"
@@ -90,7 +90,7 @@ Passionate About Clean code, System Design, & Continuous Learning.
 
 ---
 
-## 🏆 **Achievements & Highlights**
+<h3 align="center">🏆 Achievements & Highlights</h3>  
 
 <div align="center">
 
@@ -105,7 +105,7 @@ Passionate About Clean code, System Design, & Continuous Learning.
 ---
 
 
-<h2 align="center">🧰 Tools Used</h2>
+<h3 align="center">🧰 Tools Used</h3>
 
 <table align="center">
   <tr>
@@ -141,7 +141,7 @@ Passionate About Clean code, System Design, & Continuous Learning.
 
 ---
 
-## 🎨 **Contribution Graph**
+<h3 align="center">🎨 Contribution Graph</h3>  
 
 <div align="center">
   <img src="" alt="Contribution Graph" />
@@ -161,7 +161,7 @@ Python, Django, MySql, React
 
 ---
 
-## 📌 Currently Working On
+### 📌 Currently Working On
 
 - Strengthening Data Structures & Algorithms  
 - Learning System Design & Backend Scalability  
@@ -170,7 +170,7 @@ Python, Django, MySql, React
 
 ---
 
-## 🤝 Open To
+### 🤝 Open To
 
 - Internship Opportunities  
 - Collaboration On Real-World Projects  
@@ -179,7 +179,7 @@ Python, Django, MySql, React
 
 ---
 
-## 📡 **Connect With Me**
+### 📡 **Connect With Me**
 
 <div align="center">
   <a href="">
