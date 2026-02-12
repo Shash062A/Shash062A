@@ -179,6 +179,17 @@ Python, Django, MySql, React
 
 ---
 
+<p align="center">
+  <a href="https://github.com/Shash062A">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Shash062A&theme=github-dark"
+      alt="Shashank Jha's GitHub Activity Graph"
+    />
+  </a>
+</p>
+
+---
+
 ### 📡 **Connect With Me**
 
 <div align="center">
