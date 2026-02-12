@@ -12,14 +12,14 @@
 
 ---
 
-### 🚀 Software Developer | Problem Solver | Tech Explorer  
+### 🚀 ***Software Developer | Problem Solver | Tech Explorer***  
 
 I Build Scalable Web-Applications, EMS Systems, & Practical Software Solutions Focused On Real-World Use Cases.  
 Passionate About Clean code, System Design, & Continuous Learning.
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 ***About Me***
 
 - 💻 Software Developer with hands-on experience in full-stack development  
 - 🏗️ Built EMS systems and business-oriented applications  
@@ -30,7 +30,7 @@ Passionate About Clean code, System Design, & Continuous Learning.
 
 ---
 
-- ### 🔐 Cybersecurity Knowledge
+- ### 🔐 ***Cybersecurity Knowledge***
 
 - Phishing attack understanding and awareness techniques  
 - Basic web security concepts (authentication, authorization, input validation)  
@@ -40,27 +40,27 @@ Passionate About Clean code, System Design, & Continuous Learning.
 
 ---
 
-### 🛠️ **Tech Arsenal**
+### 🛠️ ***Tech Arsenal***
 
 <div align="center">
 
-#### **💻 Languages**
+#### ***💻 Languages***
 <img src="https://skillicons.dev/icons?i=cpp,js,python,java,html,css,typescript" alt="Languages" />
 
-#### **🚀 Frameworks & Libraries**
+#### ***🚀 Frameworks & Libraries***
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,bootstrap" alt="Frameworks" />
 
-#### **🗄️ Databases & Cloud**
+#### ***🗄️ Databases & Cloud***
 <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,firebase,vercel,netlify" alt="Databases & Cloud" />
 
-#### **🔧 Tools & Platforms**
+#### ***🔧 Tools & Platforms***
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,blender,docker,linux" alt="Tools" />
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 ***GitHub Stats***
 
 <!-- Light Mode -->
 <img src="https://github-readme-stats.vercel.app/api?username=Shashank062A&show_icons=true&theme=default"
@@ -76,7 +76,7 @@ Passionate About Clean code, System Design, & Continuous Learning.
 
 ---
 
-### 🔥 GitHub Streak
+### 🔥 ***GitHub Streak***
 
 <!-- Light Mode -->
 <img src="https://streak-stats.demolab.com?user=Shashank062A&theme=default"
@@ -94,7 +94,7 @@ Passionate About Clean code, System Design, & Continuous Learning.
 
 <div align="center">
 
-| 🎯 **Focus Areas** | 📈 **Experience** | 🚀 **Passion Projects** |
+| 🎯 ***Focus Areas*** | 📈 ***Experience*** | 🚀 ***Passion Projects*** |
 |:------------------:|:-----------------:|:------------------------:|
 | Full-Stack Development | Modern Web Technologies | Open Source Contributions |
 | System Architecture | Database Design | UI/UX Innovation |
@@ -141,27 +141,26 @@ Passionate About Clean code, System Design, & Continuous Learning.
 
 ---
 
-<h3 align="center">🎨 Contribution Graph</h3>  
+### 🎨 ***Contribution Graph***  
 
 <div align="center">
-  <img src="" alt="Contribution Graph" />
-    <img src="" alt="Contribution Graph" />
-    <img src="" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shash062A&theme=react-dark&hide_border=true&area=true" alt="Shashank Jha's GitHub Activity & Contribution Graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shash062A" alt="Contribution Graph" />
 </div>
 
 ---
 
-### 🔹 College / Management System (NOTION-X)
+### 🔹 ***College / Management System (NOTION-X)***
 A management system designed to handle users, data flow, and administrative operations.
 
-**Tech Used:**  
+***Tech Used:***  
 Python, Django, MySql, React
 
 🔗 Repository :~ https://github.com/Shash062A/NotionX.git
 
 ---
 
-### 📌 Currently Working On
+### 📌 ***Currently Working On***
 
 - Strengthening Data Structures & Algorithms  
 - Learning System Design & Backend Scalability  
@@ -170,7 +169,7 @@ Python, Django, MySql, React
 
 ---
 
-### 🤝 Open To
+### 🤝 ***Open To***
 
 - Internship Opportunities  
 - Collaboration On Real-World Projects  
@@ -179,18 +178,8 @@ Python, Django, MySql, React
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Shash062A">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Shash062A&theme=github-dark"
-      alt="Shashank Jha's GitHub Activity Graph"
-    />
-  </a>
-</p>
 
----
-
-### 📡 **Connect With Me**
+### 📡 ***Connect With Me***
 
 <div align="center">
   <a href="">
